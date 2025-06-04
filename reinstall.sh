@@ -3620,7 +3620,7 @@ Password of the image will NOT modify.
 "
 
     fi
-    prompt_password
+    #prompt_password
 fi
 
 # 必备组件
